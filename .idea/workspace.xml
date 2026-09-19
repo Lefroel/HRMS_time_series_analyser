@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="HRMS_AWT:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2973d466-957e-472b-a7fd-fa3748a34d5b" name="Changes" comment="Changed experiment numeration from numbers to minutes calculated based on settings" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Lefroel&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Lefroel/Focus-HRMS-analyzer.git&quot;,
+    &quot;accountId&quot;: &quot;77afd0dc-9b62-4ee1-ad01-5d6de8285ded&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="33uP2kv6hubhCPMcqKdXJQGuLdE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HRMSCalcFrame.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Dev\Focus-HRMS-analyzer" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2973d466-957e-472b-a7fd-fa3748a34d5b" name="Changes" comment="" />
+      <created>1760163779817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760163779817</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1. Added IntensityThreshold setting, removed 2 old redundant options.&#10;2. Changed minRatio formula.&#10;3. Split list separator option into 2: input and output.&#10;4. Made input CSV parsing more robust with broken pairs in columns.">
+      <option name="closed" value="true" />
+      <created>1760168512876</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760168512876</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fixed intensity threshold import from settings.ini">
+      <option name="closed" value="true" />
+      <created>1760169702668</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760169702668</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added Early Change parameter,&#10;Rearranged selected_output file contains">
+      <option name="closed" value="true" />
+      <created>1761203911390</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761203911390</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added favourite m/z values function">
+      <option name="closed" value="true" />
+      <created>1761206590304</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761206590304</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Reorganized project structure,&#10;Implemented settings system via the Preferences API">
+      <option name="closed" value="true" />
+      <created>1761543839571</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761543839571</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Implemented favourite masses storage between app sessions">
+      <option name="closed" value="true" />
+      <created>1761546900093</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761546900093</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Changed experiment numeration from numbers to minutes calculated based on settings">
+      <option name="closed" value="true" />
+      <created>1776694670275</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1776694670275</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1. Added IntensityThreshold setting, removed 2 old redundant options.&#10;2. Changed minRatio formula.&#10;3. Split list separator option into 2: input and output.&#10;4. Made input CSV parsing more robust with broken pairs in columns." />
+    <MESSAGE value="Fixed intensity threshold import from settings.ini" />
+    <MESSAGE value="Added Early Change parameter,&#10;Rearranged selected_output file contains" />
+    <MESSAGE value="Added favourite m/z values function" />
+    <MESSAGE value="Reorganized project structure,&#10;Implemented settings system via the Preferences API" />
+    <MESSAGE value="Implemented favourite masses storage between app sessions" />
+    <MESSAGE value="Changed experiment numeration from numbers to minutes calculated based on settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed experiment numeration from numbers to minutes calculated based on settings" />
+  </component>
+</project>
